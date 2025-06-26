@@ -15,9 +15,10 @@
 </div>
 
 ## LeetCode 30 Days of JavaScript
-- 2667 Create Hello World Function
-- 2620 Counter
-- 2704 To Be Or Not To Be
+- [2667. Create Hello World Function](2667-Create-Hello-World.md)
+- [2620. Counter](2620-Counter.md)
+- [2704. To Be Or Not To Be](2704-To-Be-Or-Not-To-Be.md)
+- [2665. Counter II](2665-counter-ii.md)
 
 <!-- LEETCODE -->
 <details open>
