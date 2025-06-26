@@ -1,4 +1,4 @@
-## 2667 - Create Hello World Function
+## 2667. Create Hello World Function
 
 - Typescript:
 ```typescript
