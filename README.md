@@ -30,6 +30,7 @@
 <!-- LEETCODE -->
 <details open>
 <summary> <b> :technologist: Estatísticas do LeetCode </b> </summary>
+</br>
 <div align="center">
 <!-- LEETCODE https://github.com/songquanpeng/stats-cards --->
 <img src="https://stats.justsong.cn/api/leetcode?username=mayannait&cn=true&theme=onedark" alt="LeetCode">
