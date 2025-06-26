@@ -29,7 +29,7 @@
 
 <!-- LEETCODE -->
 <details open>
-<summary> <b> :technologist: LeetCode </b> </summary>
+<summary> <b> :technologist: Estatísticas do LeetCode </b> </summary>
 <div align="center">
 <!-- LEETCODE https://github.com/songquanpeng/stats-cards --->
 <img src="https://stats.justsong.cn/api/leetcode?username=mayannait&cn=true&theme=onedark" alt="LeetCode">
@@ -39,7 +39,7 @@
 </br>
 <!-- LEETCODE https://github.com/KevzPeter/Leetcode-Badge-Showcase -->
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mayannait&theme=dracula&border=border&animated=true" alt="LeetCode">
-<!--  -->
+<!-- https://leetcode-stats.vercel.app -->
 <img src="https://leetcode-stats.vercel.app/api?username=mayannait&theme=Dark" alt="leetcode">
 </div>
 </details>
