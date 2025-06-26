@@ -19,6 +19,13 @@
 - [2620. Counter](2620-Counter.md)
 - [2704. To Be Or Not To Be](2704-To-Be-Or-Not-To-Be.md)
 - [2665. Counter II](2665-counter-ii.md)
+- [Apply Transform Over Each Element in Array]()
+- [Filter Elements from Array]()
+- [Array Reduce Transformation]()
+- [Function Composition]()
+- [Return Length of Arguments Passed]()
+- [Allow One Function Call]()
+- [Memoize]()
 
 <!-- LEETCODE -->
 <details open>
