@@ -5,7 +5,7 @@
 
 <!-- https://github.com/denvercoder1/readme-typing-svg -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=F7D500&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+LeetCode+30+Days+of+JavaScript+%F0%9F%91%BE" alt="LeetCode JS 30">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31B6D6&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+LeetCode+Daily+Coding+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
