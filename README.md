@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://assets.leetcode.com/study_plan_v2/30-days-of-javascript/cover" alt="LeetCode JS 30" width="250px">
+<img src="assets\leetcode.png" alt="LeetCode JS 30" width="220px">
 </div>
 </br>
 
@@ -14,19 +14,55 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
 </div>
 
-## LeetCode 30 Days of JavaScript
-- [2667. Create Hello World Function](2667-Create-Hello-World.md)
-- [2620. Counter](2620-Counter.md)
-- [2704. To Be Or Not To Be](2704-To-Be-Or-Not-To-Be.md)
-- [2665. Counter II](2665-counter-ii.md)
-- [2635. Apply Transform Over Each Element in Array](2635-apply-transform-over-each-element-in-array.md)
-- [Filter Elements from Array]()
-- [Array Reduce Transformation]()
-- [Function Composition]()
-- [Return Length of Arguments Passed]()
-- [Allow One Function Call]()
-- [Memoize]()
 
+## Study Plan
+### LeetCode 30 Days of JavaScript
+- [2667. Create Hello World Function](30-days-of-javascript\2667-Create-Hello-World.md)
+- [2620. Counter](30-days-of-javascript\2620-Counter.md)
+- [2704. To Be Or Not To Be](30-days-of-javascript\2704-To-Be-Or-Not-To-Be.md)
+- [2665. Counter II](30-days-of-javascript\2665-counter-ii.md)
+- [2635. Apply Transform Over Each Element in Array](30-days-of-javascript\2635-apply-transform-over-each-element-in-array.md)
+- [Filter Elements from Array](30-days-of-javascript\)
+- [Array Reduce Transformation](30-days-of-javascript\)
+- [Function Composition](30-days-of-javascript\)
+- [Return Length of Arguments Passed](30-days-of-javascript\)
+- [Allow One Function Call](30-days-of-javascript\)
+- [Memoize](30-days-of-javascript\)
+
+### Top Interview 150
+- [88. Merge Sorted Array](top-interview-150\88-merge-sorted-array.md)
+- [Remove Element]()
+- [Remove Duplicates from Sorted Array]()
+- [Remove Duplicates from Sorted Array II]()
+- [Majority Element]()
+
+## Explore Challenge
+- [1. Two Sum](explorechallenge\1-two-sum.md)
+- [2. Add Two Numbers](explorechallenge\2-add-two-numbers.md)
+- [](explorechallenge\)
+- [](explorechallenge\)
+- [](explorechallenge\)
+
+## Today Challenge
+- [2311 Longest Binary](todayschallenge\2311-longest-binary.md)
+- []()
+- []()
+- []()
+- []()
+
+<div align="center">
+<!-- LEETCODE https://github.com/hellojennpark/leetcode-stats-box?tab=readme-ov-file --->
+<img src="https://leetcode-solved-problems.vercel.app/api?username=mayannait&name=mayannait&bolder=false&title=false" alt="LeetCode">
+
+<img src="https://leetcode-solved-problems.vercel.app/api?username=mayannait&name=Mayanna&type=calendar&bolder=false&title=false" alt="LeetCode">
+
+<!-- LEETCODE https://github.com/iyehah/leetcode-status -->
+<img src="https://leetcode-status.vercel.app/api/graph/mayannait?theme=transparent&bars_width=80" alt="LeetCode"/>
+
+<img src="https://leetcode-status.vercel.app/api/pie/mayannait?theme=transparent&showLabels=false" alt="LeetCode"/>
+</div>
+
+</br>
 <!-- LEETCODE -->
 <details open>
 <summary> <b> :technologist: Estatísticas do LeetCode </b> </summary>
@@ -38,8 +74,10 @@
 <!-- LEETCODE https://github.com/JacobLinCool/LeetCode-Stats-Card --->
 <img src="https://leetcard.jacoblin.cool/mayannait?ext=activity" alt="LeetCode">
 </br>
+
 <!-- LEETCODE https://github.com/KevzPeter/Leetcode-Badge-Showcase -->
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=mayannait&theme=dracula&border=border&animated=true" alt="LeetCode">
+<!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=mayannait&theme=dracula&border=border&animated=true" alt="LeetCode"> -->
+
 <!-- https://leetcode-stats.vercel.app -->
 <img src="https://leetcode-stats.vercel.app/api?username=mayannait&theme=Dark" alt="leetcode">
 </div>

@@ -20,12 +20,12 @@
 - [2704. To Be Or Not To Be](2704-To-Be-Or-Not-To-Be.md)
 - [2665. Counter II](2665-counter-ii.md)
 - [2635. Apply Transform Over Each Element in Array](2635-apply-transform-over-each-element-in-array.md)
-- [Filter Elements from Array]()
-- [Array Reduce Transformation]()
-- [Function Composition]()
-- [Return Length of Arguments Passed]()
-- [Allow One Function Call]()
-- [Memoize]()
+- [2634. Filter Elements from Array](30-days-of-javascript\2704-To-Be-Or-Not-To-Be.md)
+- [Array Reduce Transformation](30-days-of-javascript\)
+- [Function Composition](30-days-of-javascript\)
+- [Return Length of Arguments Passed](30-days-of-javascript\)
+- [Allow One Function Call](30-days-of-javascript\)
+- [Memoize](30-days-of-javascript\)
 
 <!-- LEETCODE -->
 <details open>
