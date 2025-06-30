@@ -15,12 +15,12 @@
 </div>
 
 ## LeetCode 30 Days of JavaScript
-- [2667. Create Hello World Function](2667-Create-Hello-World.md)
-- [2620. Counter](2620-Counter.md)
-- [2704. To Be Or Not To Be](2704-To-Be-Or-Not-To-Be.md)
-- [2665. Counter II](2665-counter-ii.md)
-- [2635. Apply Transform Over Each Element in Array](2635-apply-transform-over-each-element-in-array.md)
-- [2634. Filter Elements from Array](30-days-of-javascript\2704-To-Be-Or-Not-To-Be.md)
+- [2667. Create Hello World Function](30-days-of-javascript\2667-Create-Hello-World.md)
+- [2620. Counter](30-days-of-javascript\2620-Counter.md)
+- [2704. To Be Or Not To Be](30-days-of-javascript\2704-To-Be-Or-Not-To-Be.md)
+- [2665. Counter II](30-days-of-javascript\2665-counter-ii.md)
+- [2635. Apply Transform Over Each Element in Array](30-days-of-javascript\2635-apply-transform-over-each-element-in-array.md)
+- [Filter Elements from Array](30-days-of-javascript\)
 - [Array Reduce Transformation](30-days-of-javascript\)
 - [Function Composition](30-days-of-javascript\)
 - [Return Length of Arguments Passed](30-days-of-javascript\)

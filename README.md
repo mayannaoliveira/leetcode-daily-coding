@@ -64,7 +64,7 @@
 
 </br>
 <!-- LEETCODE -->
-<details open>
+<details close>
 <summary> <b> :technologist: Estatísticas do LeetCode </b> </summary>
 </br>
 <div align="center">
