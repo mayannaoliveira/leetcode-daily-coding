@@ -1,6 +1,6 @@
 ## 2635. Apply Transform Over Each Element in Array
 
-- JavaScript:
+#### Javascript
 
 ```JavaScript
 /**
@@ -17,7 +17,7 @@ var map = function(arr, fn) {
 };
 ```
 
-- TypeScript:
+#### TypeScript
 
 ```TypeScript
 function map(arr: number[], fn: (n: number, i: number) => number): number[] {

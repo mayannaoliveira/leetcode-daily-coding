@@ -1,6 +1,7 @@
 ## 2311. Longest Binary Subsequence Less Than or Equal to K
 
-- C++:
+#### C++
+
 ```cpp
 class Solution {
 public:
@@ -20,7 +21,8 @@ public:
 };
 ```
 
-- Python:
+#### Python
+
 ```python
 class Solution:
     def longestSubsequence(self, s: str, k: int) -> int:

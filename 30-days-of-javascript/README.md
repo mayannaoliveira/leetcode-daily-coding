@@ -1,3 +1,5 @@
+<h2> LeetCode 30 Days of JavaScript </h2>
+
 <div align="center">
 <img src="https://assets.leetcode.com/study_plan_v2/30-days-of-javascript/cover" alt="LeetCode JS 30" width="250px">
 </div>
@@ -5,7 +7,7 @@
 
 <!-- https://github.com/denvercoder1/readme-typing-svg -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=F7D500&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+LeetCode+30+Days+of+JavaScript+%F0%9F%91%BE" alt="LeetCode JS 30">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=LeetCode+30+Days+of+JavaScript" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -14,7 +16,9 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
 </div>
 
-## LeetCode 30 Days of JavaScript
+</br>
+
+### Table of Contents:
 - [2667. Create Hello World Function](30-days-of-javascript\2667-Create-Hello-World.md)
 - [2620. Counter](30-days-of-javascript\2620-Counter.md)
 - [2704. To Be Or Not To Be](30-days-of-javascript\2704-To-Be-Or-Not-To-Be.md)
@@ -38,9 +42,11 @@
 <!-- LEETCODE https://github.com/JacobLinCool/LeetCode-Stats-Card --->
 <img src="https://leetcard.jacoblin.cool/mayannait?ext=activity" alt="LeetCode">
 </br>
-<!-- LEETCODE https://github.com/KevzPeter/Leetcode-Badge-Showcase -->
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=mayannait&theme=dracula&border=border&animated=true" alt="LeetCode">
 <!-- https://leetcode-stats.vercel.app -->
 <img src="https://leetcode-stats.vercel.app/api?username=mayannait&theme=Dark" alt="leetcode">
 </div>
 </details>
+
+</br>
+
+:airplane: Click here to back to [Homepage](https://github.com/mayannaoliveira/leetcode-daily-coding).

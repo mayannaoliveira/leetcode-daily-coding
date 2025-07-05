@@ -1,6 +1,7 @@
 ## 2620. Counter
 
-- TypeScript:
+#### TypeScript
+
 ```TypeScript
 function createCounter(n: number): () => number {
     let count = n-1;
@@ -20,7 +21,7 @@ function createCounter(n: number): () => number {
  */
 ```
 
-- JavaScript:
+#### JavaScript
 
 ```JavaScript
 /**

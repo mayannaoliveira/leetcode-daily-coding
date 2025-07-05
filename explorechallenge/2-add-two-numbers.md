@@ -1,6 +1,7 @@
 ## 2. Add Two Numbers
 
-- Python: 
+#### Python
+
 ```python
 # Definition for singly-linked list.
 # class ListNode(object):
@@ -36,7 +37,8 @@ class Solution(object):
         
         return dummy_head.next
 ```
-- Go:
+
+#### Go
 
 ```go
 /**
@@ -74,7 +76,8 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 }
 ```
 
-- Rust: 
+#### Rust
+
 ```rust
 // Definition for singly-linked list.
 // #[derive(PartialEq, Eq, Clone, Debug)]

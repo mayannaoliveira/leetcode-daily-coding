@@ -1,6 +1,7 @@
 ## 2667. Create Hello World Function
 
-- Typescript:
+#### TypeScript
+
 ```typescript
 function createHelloWorld() {
     return function(...args: any[]): string {
@@ -9,7 +10,8 @@ function createHelloWorld() {
 }
 ```
 
-- Javascript:
+#### Javascript
+
 ```javascript
 /**
  * @return {Function}

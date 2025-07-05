@@ -1,7 +1,8 @@
 
 ## 2620. Counter II
 
-- JavaScript
+#### Javascript
+
 ```JavaScript
 /**
  * @param {integer} init
@@ -31,7 +32,8 @@ var createCounter = function(init) {
  */
 ```
 
-- TypeScript
+#### Typescript
+
 ```TypeScript
 type Counter = {
     increment: () => number,

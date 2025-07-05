@@ -1,5 +1,7 @@
+## Leetcode Daily Coding
+
 <div align="center">
-<img src="assets\leetcode.png" alt="LeetCode JS 30" width="220px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="220px">
 </div>
 </br>
 
@@ -15,40 +17,13 @@
 </div>
 
 
-## Study Plan
-### LeetCode 30 Days of JavaScript
-- [2667. Create Hello World Function](30-days-of-javascript\2667-Create-Hello-World.md)
-- [2620. Counter](30-days-of-javascript\2620-Counter.md)
-- [2704. To Be Or Not To Be](30-days-of-javascript\2704-To-Be-Or-Not-To-Be.md)
-- [2665. Counter II](30-days-of-javascript\2665-counter-ii.md)
-- [2635. Apply Transform Over Each Element in Array](30-days-of-javascript\2635-apply-transform-over-each-element-in-array.md)
-- [Filter Elements from Array](30-days-of-javascript\)
-- [Array Reduce Transformation](30-days-of-javascript\)
-- [Function Composition](30-days-of-javascript\)
-- [Return Length of Arguments Passed](30-days-of-javascript\)
-- [Allow One Function Call](30-days-of-javascript\)
-- [Memoize](30-days-of-javascript\)
+### Study Plan
 
-### Top Interview 150
-- [88. Merge Sorted Array](top-interview-150\88-merge-sorted-array.md)
-- [Remove Element]()
-- [Remove Duplicates from Sorted Array]()
-- [Remove Duplicates from Sorted Array II]()
-- [Majority Element]()
-
-## Explore Challenge
-- [1. Two Sum](explorechallenge\1-two-sum.md)
-- [2. Add Two Numbers](explorechallenge\2-add-two-numbers.md)
-- [](explorechallenge\)
-- [](explorechallenge\)
-- [](explorechallenge\)
-
-## Today Challenge
-- [2311 Longest Binary](todayschallenge\2311-longest-binary.md)
-- []()
-- []()
-- []()
-- []()
+- [LeetCode 30 Days of JavaScript](30-days-of-javascript\README.md)
+- [Top Interview 150](top-interview-150\README.md)
+- [Explore Challenge](explorechallenge\README.md)
+- [Today Challenge](todayschallenge\README.md)
+- [Arrays 101](arrays-101\README.md)
 
 <div align="center">
 <!-- LEETCODE https://github.com/hellojennpark/leetcode-stats-box?tab=readme-ov-file --->
@@ -74,9 +49,6 @@
 <!-- LEETCODE https://github.com/JacobLinCool/LeetCode-Stats-Card --->
 <img src="https://leetcard.jacoblin.cool/mayannait?ext=activity" alt="LeetCode">
 </br>
-
-<!-- LEETCODE https://github.com/KevzPeter/Leetcode-Badge-Showcase -->
-<!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=mayannait&theme=dracula&border=border&animated=true" alt="LeetCode"> -->
 
 <!-- https://leetcode-stats.vercel.app -->
 <img src="https://leetcode-stats.vercel.app/api?username=mayannait&theme=Dark" alt="leetcode">

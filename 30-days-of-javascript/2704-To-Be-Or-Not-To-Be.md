@@ -1,6 +1,6 @@
 ## 2704. To Be Or Not To Be
 
-- JavaScript:
+#### Javascript
 
 ```JavaScript
 /**
@@ -31,7 +31,7 @@ var expect = function(val) {
  */
 ```
 
-- TypeScript:
+#### TypeScript
 
 ```TypeScript
 type ToBeOrNotToBe = {

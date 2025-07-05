@@ -1,6 +1,7 @@
 ## 1. Two Sum
 
-- Python 3: 
+#### Python
+
 ```python
 from typing import List
 class Solution:
