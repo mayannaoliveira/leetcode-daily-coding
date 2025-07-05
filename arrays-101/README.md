@@ -1,11 +1,24 @@
-## Introduction to Data Structure
+## Introduction to Data Structure (Arrays 101)
+
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="220px">
+</div>
+</br>
+
+<!-- https://github.com/denvercoder1/readme-typing-svg -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Introduction+to+Data+Structure;Arrays+101" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+</div>
 
 Arrays are a simple data structure for storing lots of similar items. They exist in all programming languages, and are used as the basis for most other data structures. On their own, Arrays can be used to solve many interesting problems. Arrays come up very often in interview problems, and so being a guru with them is a must!
-
-### Arrays 101
 Please check the challenge in [LeetCode Arrays 101](https://leetcode.com/explore/learn/card/fun-with-arrays/) to know more about it.
 
-**Table of contents:** 
+### Table of contents 
 
 #### Introduction
 - [Max Consecutive Ones](max-consecutive-ones.md)

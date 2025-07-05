@@ -17,39 +17,38 @@
 </div>
 
 
-### Study Plan
+### My Study Plan
 
 - [LeetCode 30 Days of JavaScript](./30-days-of-javascript/README.md)
 - [Top Interview 150](./top-interview-150/README.md)
-- [Explore Challenge](explorechallenge\README.md)
-- [Arrays 101](arrays-101\README.md)
+- [Explore Challenge](./explorechallenge/README.md)
+- [Arrays 101](./arrays-101/README.md)
 
-<div align="center">
+<!--  <div align="center"> -->
 <!-- LEETCODE https://github.com/hellojennpark/leetcode-stats-box?tab=readme-ov-file --->
-<img src="https://leetcode-solved-problems.vercel.app/api?username=mayannait&name=mayannait&bolder=false&title=false" alt="LeetCode">
+<!--  <img src="https://leetcode-solved-problems.vercel.app/api?username=mayannait&name=mayannait&bolder=false&title=false" alt="LeetCode"> -->
 
-<img src="https://leetcode-solved-problems.vercel.app/api?username=mayannait&name=Mayanna&type=calendar&bolder=false&title=false" alt="LeetCode">
+<!-- <img src="https://leetcode-solved-problems.vercel.app/api?username=mayannait&name=Mayanna&type=calendar&bolder=false&title=false" alt="LeetCode"> -->
 
 <!-- LEETCODE https://github.com/iyehah/leetcode-status -->
-<img src="https://leetcode-status.vercel.app/api/graph/mayannait?theme=transparent&bars_width=80" alt="LeetCode"/>
+<!-- <img src="https://leetcode-status.vercel.app/api/graph/mayannait?theme=transparent&bars_width=80" alt="LeetCode"/> -->
 
-<img src="https://leetcode-status.vercel.app/api/pie/mayannait?theme=transparent&showLabels=false" alt="LeetCode"/>
-</div>
+<!--  <img src="https://leetcode-status.vercel.app/api/pie/mayannait?theme=transparent&showLabels=false" alt="LeetCode"/> -->
+<!-- </div> -->
 
 </br>
 <!-- LEETCODE -->
-<details close>
+<details open>
 <summary> <b> :technologist: Estatísticas do LeetCode </b> </summary>
 </br>
 <div align="center">
+<!-- https://leetcode-stats.vercel.app -->
+<img src="https://leetcode-stats.vercel.app/api?username=mayannait&theme=dark" alt="leetcode">
 <!-- LEETCODE https://github.com/songquanpeng/stats-cards --->
-<img src="https://stats.justsong.cn/api/leetcode?username=mayannait&cn=true&theme=onedark" alt="LeetCode">
+<img src="https://stats.justsong.cn/api/leetcode?username=mayannait&cn=true&theme=dark" alt="LeetCode">
 </br>
 <!-- LEETCODE https://github.com/JacobLinCool/LeetCode-Stats-Card --->
 <img src="https://leetcard.jacoblin.cool/mayannait?ext=activity" alt="LeetCode">
 </br>
-
-<!-- https://leetcode-stats.vercel.app -->
-<img src="https://leetcode-stats.vercel.app/api?username=mayannait&theme=Dark" alt="leetcode">
 </div>
 </details>

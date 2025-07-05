@@ -1,4 +1,4 @@
-<h2> LeetCode 30 Days of JavaScript </h2>
+## LeetCode 30 Days of JavaScript
 
 <div align="center">
 <img src="https://assets.leetcode.com/study_plan_v2/30-days-of-javascript/cover" alt="LeetCode JS 30" width="250px">
@@ -14,9 +14,9 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
-</div>
 
-</br>
+Click here to know more about [LeetCode 30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/).
+</div>
 
 ### Table of Contents:
 - [2667. Create Hello World Function](30-days-of-javascript\2667-Create-Hello-World.md)
