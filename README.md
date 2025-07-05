@@ -19,10 +19,9 @@
 
 ### Study Plan
 
-- [LeetCode 30 Days of JavaScript](30-days-of-javascript\README.md)
-- [Top Interview 150](top-interview-150\README.md)
+- [LeetCode 30 Days of JavaScript](./30-days-of-javascript/README.md)
+- [Top Interview 150](./top-interview-150/README.md)
 - [Explore Challenge](explorechallenge\README.md)
-- [Today Challenge](todayschallenge\README.md)
 - [Arrays 101](arrays-101\README.md)
 
 <div align="center">
